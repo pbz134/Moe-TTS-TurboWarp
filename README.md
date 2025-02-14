@@ -1,5 +1,5 @@
 # Moe-TTS-TurboWarp
-An extension to enable Japanese text-to-speech in TurboWarp using Moe-TTS
+An extension to enable Japanese text-to-speech in TurboWarp using Moe-TTS, coded using Mistral-Large-2411
 
 [Example usage](https://www.youtube.com/watch?v=cLEs41_uHDw)
 
