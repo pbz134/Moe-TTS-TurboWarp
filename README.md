@@ -14,3 +14,4 @@ An extension to enable Japanese text-to-speech in TurboWarp using Moe-TTS, coded
 - Launch TurboWarp and open the Extensions tab
 - Search for "Custom" to add a custom extension
 - Select the tts.js file from the Releases tab
+- Follow the example usage video above for instructions on how to use the extension
